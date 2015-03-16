@@ -1,0 +1,1 @@
+This wiki is deprecated and replaced by CombinedResourceHandlerPrimeFaces.

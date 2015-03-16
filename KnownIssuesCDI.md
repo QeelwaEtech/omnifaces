@@ -1,0 +1,1 @@
+# [Wiki page is moved to GitHub](https://github.com/omnifaces/omnifaces/wiki/Known-Issues-(CDI)) #
